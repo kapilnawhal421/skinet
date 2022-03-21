@@ -1,0 +1,15 @@
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/ref/Infrastructure.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb

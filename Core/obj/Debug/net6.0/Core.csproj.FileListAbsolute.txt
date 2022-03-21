@@ -1,0 +1,12 @@
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/bin/Debug/net6.0/Core.deps.json
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/bin/Debug/net6.0/Core.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/bin/Debug/net6.0/ref/Core.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/bin/Debug/net6.0/Core.pdb
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/ref/Core.dll
+/Users/kapil.nawhal/Desktop/demo3/skinet/Core/obj/Debug/net6.0/Core.pdb

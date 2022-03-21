@@ -1,0 +1,13 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace Core.Entities
+{
+    public class Product
+    {
+        [Required]
+        public int Id { get; set; } 
+
+        public string? Name { get; set; }
+
+    }
+}
